@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "6RkROH16eT5gWZK0JyZpCz",
+    "name" : "Verifier_Versioning_MultiLine",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6RkROH16eT5gWZK0JyZpCz"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifier_Versioning_MultiLine",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-04-23T15:01:02.910Z",
+  "objectRefs" : [ ]
+}
