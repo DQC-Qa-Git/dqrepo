@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "00nVhFqmSeehlY9qt7dNC4",
+    "name" : "Verifier_Versioning_Discrete",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "00nVhFqmSeehlY9qt7dNC4"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifier_Versioning_Discrete",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-04-23T15:00:18.027Z",
+  "objectRefs" : [ ]
+}
