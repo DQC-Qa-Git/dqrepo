@@ -1,25 +1,25 @@
 {
   "objectInfo" : {
-    "id" : "4cEN0JEKCUziN2CGjNSYG1",
-    "name" : "Cleanse_Versioning_Remove_Spaces",
-    "type" : "CLEANSE",
+    "id" : "3OZLPdxojATcPljxLpm7sz",
+    "name" : "Rule_Spec_Versioning",
+    "type" : "RULE_SPECIFICATION",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "4cEN0JEKCUziN2CGjNSYG1"
+        "repoHandle" : "3OZLPdxojATcPljxLpm7sz"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Remove Spaces",
+        "description" : "Rule_Spec_Versioning",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2024-05-07T08:42:25.879Z",
+  "updateTime" : "2024-05-07T08:42:25.883Z",
   "objectRefs" : [ ]
 }
