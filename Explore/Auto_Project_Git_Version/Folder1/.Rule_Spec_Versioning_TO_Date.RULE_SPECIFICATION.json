@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "23SypDW0zUMbjz2mfyJ6eJ",
+    "id" : "8PhJ6M94wAEh8gdOF7ZeMi",
     "name" : "Rule_Spec_Versioning_TO_Date",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "23SypDW0zUMbjz2mfyJ6eJ"
+        "repoHandle" : "8PhJ6M94wAEh8gdOF7ZeMi"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -20,6 +20,6 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2024-05-10T07:13:09.042Z",
+  "updateTime" : "2024-05-14T08:49:43.559Z",
   "objectRefs" : [ ]
 }
